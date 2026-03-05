@@ -5,7 +5,9 @@ A CLI tool for managing Fastmail emails via JMAP API.
 ## Installation
 
 ```bash
-pip install -e .
+git clone https://github.com/adamclerk/fastmail-cli.git
+cd fastmail-cli
+pipx install .
 ```
 
 ## Configuration
